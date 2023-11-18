@@ -1,0 +1,248 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  color: #000;
+}
+
+h3 {
+  text-align: center;
+}
+
+.moon {
+  font-size: 30px;
+}
+
+.moon:hover {
+  color: #fff;
+}
+
+.dark-btn {
+  margin-top: 24px;
+  position: relative;
+  left: 1200px;
+  cursor: pointer;
+  border-radius: 15px;
+  border: none;
+}
+
+.dark-btn:hover {
+  background-color: #17365c;
+}
+
+.dark-theme {
+  background-color: #122d4c;
+  color: #fff;
+}
+
+.dark-theme {
+  background: linear-gradient(
+    114.9deg,
+    rgb(34, 34, 34) 8.3%,
+    rgb(0, 40, 60) 41.6%,
+    rgb(0, 143, 213) 93.4%
+  );
+  padding: 20px;
+  margin: 50px;
+  border-radius: 90px;
+}
+
+.img-bg-light {
+  background-color: #f9f2f2;
+  border-radius: 90px;
+  margin: 50px;
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+}
+
+.cover-image {
+  width: 700px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+  box-shadow: 5px 5px 3px #122d4c;
+  transition: 150ms ease-in-out;
+}
+
+.cover-image:hover {
+  transform: scale(1.2);
+}
+
+.opening-paragraph {
+  text-align: center;
+  padding: 20px;
+  line-height: 40px;
+}
+
+.tvshow-heading {
+  font-size: 24px;
+}
+
+.tvshow-sect {
+  text-align: center;
+}
+
+.tv-container {
+  margin: 40px;
+}
+
+.topboy-sect {
+  margin: 60px;
+}
+
+.topboy {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 5px 5px 2px #122d4c;
+  transition: 150ms ease-in-out;
+}
+
+.topboy:hover {
+  transform: scale(1.1);
+}
+
+.show-heading {
+  text-align: center;
+}
+
+.show-topboy {
+  text-align: center;
+}
+.platform {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.orange {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 5px 5px 2px #122d4c;
+  transition: 150ms ease-in-out;
+}
+
+.orange:hover {
+  transform: scale(1.1);
+}
+.squid {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 5px 5px 2px #122d4c;
+  transition: 150ms ease-in-out;
+}
+.squid:hover {
+  transform: scale(1.1);
+}
+.squid-heading {
+  margin-top: 50px;
+}
+
+.plat-net {
+  width: 20px;
+}
+
+.platform-heading {
+  margin-top: 40px;
+  font-size: 24px;
+}
+
+.plat-display {
+  width: 60px;
+  display: block;
+  margin: 0 auto;
+}
+
+.grid-container {
+  display: flex;
+  margin-top: 70px;
+}
+
+.disney-icon {
+  color: #fff;
+}
+.barbie {
+  width: 200px;
+  transition: 150ms ease-in-out;
+}
+.barbie:hover {
+  transform: scale(1.1);
+}
+.candyman {
+  width: 200px;
+  transition: 150ms ease-in-out;
+}
+.candyman:hover {
+  transform: scale(1.1);
+}
+.elemental {
+  width: 200px;
+  transition: 150ms ease-in-out;
+}
+.elemental:hover {
+  transform: scale(1.1);
+}
+.jaws {
+  width: 200px;
+  transition: 150ms ease-in-out;
+}
+.jaws:hover {
+  transform: scale(1.1);
+}
+.smile {
+  width: 200px;
+  transition: 150ms ease-in-out;
+}
+
+.smile:hover {
+  transform: scale(1.1);
+}
+
+.excorist {
+  width: 200px;
+  transition: 150ms ease-in-out;
+}
+
+.excorist:hover {
+  transform: scale(1.1);
+}
+.image-gallery {
+  grid-template-columns: 200px 200px 200px;
+  gap: 50px;
+  display: block;
+  margin: 0 auto;
+  display: grid;
+  width: 50%;
+  margin: auto;
+}
+.rec-heading {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 70px;
+}
+
+.cta {
+  display: block;
+  margin: 0 auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: #1f4b82;
+  border: none;
+  color: #fff;
+}
+
+.cta:hover {
+  background-color: #225593;
+}
